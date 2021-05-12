@@ -1,4 +1,4 @@
-
+CREATE DATABASE login;
 use login;
 
 CREATE TABLE IF NOT EXISTS logininfo (
